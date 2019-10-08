@@ -6,6 +6,10 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
 
 [elixir-companies]: https://github.com/doomspork/elixir-companies
 
+#### Advertising
+
+* [Missena](https://www.missena.com/) - Based in Paris, Missena engage users and enhance advertising experience using conversational ads. We use Elm, our favorite front-end language.
+
 #### Automotive
 
 * [CARFAX](https://www.carfax.com/)
